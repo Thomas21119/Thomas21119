@@ -1,5 +1,9 @@
 .section {
-  background-color: lemonchiffon;
+  color: purple;
+}
+
+#section-1 {
+  background-color: purple;
 }
 
 .headers {
